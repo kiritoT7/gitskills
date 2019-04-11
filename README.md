@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch is quick and simple aaa.
+Creating a OdL branch is quick and simple aaa.
